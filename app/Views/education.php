@@ -217,24 +217,51 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "Sugih Pranata"</h1>
+        <h1>My Education</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+		<table border="1" cellspasing="0">
+			<tr bgcolor="#9195F6" style="color:white;">
+				<td width="50px" align="center">No</td>
+				<td width="200px" align="center">Tingkat</td>
+				<td width="600px" align="center">Nama Sekolah</td>
+			</tr>
 
+			<tr >
+				<td >1</td>
+				<td >TK</td>
+				<td >TK Karangkaputran - Sasakgantung</td>
+			</tr>
+
+			<tr >
+				<td >2</td>
+				<td >SD</td>
+				<td >SD Nilem IV - Buah Batu</td>
+			</tr>
+
+			<tr >
+				<td >3</td>
+				<td >SMP</td>
+				<td >SMP Negeri 43 - Kota Bandung</td>
+			</tr>
+			
+			<tr >
+				<td >4</td>
+				<td >SMA</td>
+				<td ><a href="http://www.sman1banjaran.sch.id/">SMA Negeri 1 Banjaran - Kabupaten Bandung</a></td>
+			</tr>
+			
+			<tr >
+				<td >5</td>
+				<td >Kuliah</td>>
+				<td ><a href="https://www.unpad.ac.id/fakultas/matematika-ipa/"> D3 Manajemen Informatika - UNPAD</a></td>
+			</tr>
+		</table>
     </div>
 
 </header>
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
